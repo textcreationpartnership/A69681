@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From aboard the Van-herring another letter from Legorn to an eminent merchant in Lond. Sept. 23, 1680.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69681</idno>
+            <idno type="STC">Wing B90</idno>
+            <idno type="STC">ESTC R9939</idno>
+            <idno type="EEBO-CITATION">12533412</idno>
+            <idno type="OCLC">ocm 12533412</idno>
+            <idno type="VID">62808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 304:7 or 445:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From aboard the Van-herring another letter from Legorn to an eminent merchant in Lond. Sept. 23, 1680.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning the Popish Plot.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Van Herring (Ship)</term>
+               <term>Popish Plot, 1678 --  Anecdotes.</term>
+               <term>Political satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62808:1"/>
+            <pb n="1" facs="tcp:62808:1" rendition="simple:additions"/>
+            <head>
+               <hi>From Aboard the</hi> Van-herring. ANOTHER LETTER FROM LEGORN, To an Eminent Merchant in
+<hi>Lond. Sept.</hi> 23. 1680.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY laſt inform'd you what ill Circumſtances our Ship and Ships-company were in; this comes
+to tell you how matters now ſtand with us. And to ſpeak the truth, they are but little mended.
+The <hi>Mahometans</hi> aboard, and abroad, are ſtill plot<g ref="char:EOLhyphen"/>ting our deſtruction. Though at
+preſent they are pretty ſi<g ref="char:EOLhyphen"/>lent, yet they are not aſleep; we may expect a ſtorm after the
+calm. You wonder why this Ship is ſo much the object of their ſpight! for this you muſt
+underſtand, ſhe was once in their poſſeſſion, and 'twas the beſt Ship they had; they
+made great Merchandize of her; till anon a noble <hi>Captain</hi> that commanded her, was ſo
+affronted with their inſolence, and offended with their ſuperſtition, that he turn'd the
+moſt of them aſhore, and put Chriſtian Officers and Sailers in their room. And ever ſince
+the <hi>Mahometans</hi> have been reſtleſs in their attempts to ruin or recover her into their
+hands again. 'Tis within the memory of ſome yet alive, that they had a moſt devilliſh
+deſign upon her, and it had like to have taken effect. Some of them on board had very cunningly
+put Gunpowder under the place where the <hi>Captain</hi> and his Council of Officers were to meet,
+intending to have put fire to it, and to have blown them all up into the air: this treacherous
+Con<g ref="char:EOLhyphen"/>ſpiracy was diſcovered by the ſagacity of the <hi>Captain</hi> himſelf; and the
+ring-leaders being deſervedly executed, their heads were fixed for the terror of others upon the
+top of the Main-maſt. Not long before that, they rig'd out a Fleet, that they thought and call'd
+Invincible, and coming up to this Ship, they attackt her as ſhe lay at an anchor; but the heavens
+helping, ſhe worſt<g ref="char:EOLhyphen"/>ed that great Armado, and ſome of the Ships being fired, others
+ſtranded, and the reſt ſcatter'd, ſcarce any return'd home to give an account of their ill
+ſucceſs. It was but the other day that they employ'd ſome to fire the great
+<pb n="2" facs="tcp:62808:2"/>
+Cabin of the Ship, which was effectually accompliſht. One <hi>Algerine</hi> con<g ref="char:EOLhyphen"/>feſſed he had
+an hand in't, and was accordingly condemn'd and executed. Others were accuſed; but the
+<hi>Lieutenant</hi> got them out of the way. And af<g ref="char:EOLhyphen"/>ter the then Council of Officers had a little
+lookt into the buſineſs, it was huſht up I know not how, and never enquired after ſince.
+However the <hi>Mahometans</hi> miſt of their aim, for in a little time the Cabbin was repaired
+again, and is now much more ſplendid than it was before. Since theſe diſ<g ref="char:EOLhyphen"/>appointments they
+have play'd at ſeveral ſmall games, being reſolved never to ſtand out; and now they think
+they have ſuch good Cards in their hands, if they can but get rid of the <hi>Captain,</hi> they
+make no queſtion of ſweeping the ſtakes. Therefore they have indented with ſeveral of late
+to take him off; but yet he hath eſcaped their malicious hands, and ſome of theſe (which is
+very ſtrange) have eſcaped the hands of Juſtice. My laſt told you of one, a little Doctor,
+or Chirurgeons-mate, and this will tell you of another, an old Cinkator, born in 88, or thereabout,
+he was try'd alſo for this bold attempt, and though the <hi>Sailors</hi> would have laid an
+hundred to one, when they heard the Evidence againſt him, he would be condemn'd, yet he was
+clear'd. Some others alſo have been unexpectedly acquitted upon their Trial; particularly two
+female Paſſengers, one a Tempeſtuous Lady, the other an Impudent Strumpet: This latter was
+ſo hardy, that the afterward put forth a lying Libel in Vindication of the <hi>Mahometans,</hi>
+alledging that the Confeſſion upon record againſt them, was extorted by racks and tortures; a
+thing never practic'd aboard this Ship; for this ſhe was ſentenc'd to ſtand two or three
+times at the Capſtorm; and the boys fingers did itch to anoint her with Pitch and Tar; but the
+Clemency of the Officers would not ſuffer it. Theſe proceedings you may imagine don't a little
+animate the Conſpi<g ref="char:EOLhyphen"/>rators. And there is one little accident fallen out greatly to their content,
+after they had barbarouſly murder'd (as you heard before) an honeſt Boat-ſwain, the
+<hi>Captain</hi> put another in his room; a little ſprunt fellow, that did ferret them about;
+there could not be two or three of them together, but he was preſently at their heels; this
+ſawcineſs of his they deem'd inſuffer<g ref="char:EOLhyphen"/>able, therefore an hole was quickly pickt in his coat,
+and he ſent aſhore; ſo that now they can club and cabal together without controul; and if any
+ſhall moleſt them, they muſt look to themſelves. An honeſt <hi>Quarter-master</hi> a
+little while ago, did but a little diſguſt them, and preſently they appoin<g ref="char:EOLhyphen"/>ted ſome
+deſperate Ruffians to diſpatch him; theſe taking their opportunity when he was all alone,
+fell upon him and cut his Throat; but being ſcar'd, they did their work to halves; for the
+<hi>Quarter-master</hi> by good looking af<g ref="char:EOLhyphen"/>ter recovered, and is like to do well.</p>
+            <p>The <hi>Captain,</hi> though he doth not ſay much, yet doubtleſs he cannot but reſent
+theſe doings; and I believe alſo that he is ſomething concern'd about the growing Greatneſs
+and power of <hi>Algier;</hi> for he hath ſent to ſome other Ships to league with him for
+mutual ſecurity and defence: and upon this hangs a pretty ſtory, in the Arſenal of the
+Commonwealth of <hi>Genoa,</hi> (which is not far from us) there rides a Ship call'd the
+<hi>Van-Trump,</hi> a luſty ſtout Ship ſhe is, and ſail'd altogether by <hi>Christians</hi>
+and <hi>Anti Mahometans;</hi> this Ship alone hath born up againſt all the power of
+<hi>Algier.</hi> To this Ship the <hi>Captain</hi> ſent that there might be a nearer Alliance
+betwixt them; and when the Meſſen<g ref="char:EOLhyphen"/>ger came aboard, who ſhould he find there but an Envoy from
+<hi>Algier,</hi> who was negotiating the very ſame thing for his Maſter? And we are inform'd
+that he
+<pb n="3" facs="tcp:62808:2"/>
+had cunningly inſinuated himſelf into ſome great Officers aboard the Ship, and had
+ſuggeſted to them the great glory and proweſs of his Maſter, as alſo the nakedneſs and
+great unfaithfulneſs of the <hi>Van-herring;</hi> and had them re<g ref="char:EOLhyphen"/>member how unhandſomely ſhe
+had lately ſerv'd them in a Voyage from <hi>Smyrna,</hi> However the <hi>Captain</hi> and the
+Generality of the Officers Were too wiſe to be wheedled into an Alliance with <hi>Algier;</hi>
+they were ſenſible 'twas againſt their intereſt that the <hi>Van-herring</hi> ſhould fall
+into the hands of the <hi>Algerines;</hi> for if ſo, all the favour they could expect, would be
+that which <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> obtain'd of <hi>Poliphemus</hi> to be laſt devour'd. And yet
+there is not ſo good an underſtanding and ſo firm an Union and Alliance betwixt theſe two
+Ships as moſt deſire; for certainly would they keep together, and re<g ref="char:EOLhyphen"/>ſolutely ſtand one by
+another, the <hi>Algerines</hi> would quickly pull in their horns; yea, theſe two Ships in
+conjunction are eaſily able to deſtroy the neſt of Pirates; they may keep them in, that they
+ſhall not peep out at Sea, yea, they may fall upon them aſhore. There is a multitude of
+Chriſtian ſlaves there, whoſe bondage is ſo grievous to them, that they would be glad of
+any opportunity to revolt. For my part I am not out of hope to ſee ſuch a deſign carried on
+for the good of all Chriſtendom. I know ſome of the principal Officers, and the generality of
+Sailors of both Ships deſire it ſhould be ſo. However it gives ſome ſatisfaction, that
+the <hi>Captain</hi> hath now at laſt declared, That his Council of Officers ſhall ſit; and
+conſult about common-ſafety. If you ask the reaſon why their coming together hath been ſo
+long defer'd, I know none but the <hi>Captain</hi> himſelf that can give you a po<g ref="char:EOLhyphen"/>ſitive
+anſwer; though others may ſtumble on this or the other probable conjecture. Some think the
+<hi>Lieutenant</hi> and others of the <hi>Mahometan</hi> faction are the cauſe. 'Tis manifeſtly
+their intereſt to hinder the Councils ſitting. 'Tis likely they'l begin where the former
+Council left, they'l fall a raveling into this <hi>Helliſh and Damnable Plot;</hi> and then the
+five great Cri<g ref="char:EOLhyphen"/>minals of which my laſt told you (who are ſtill kept in the Hold of the Ship)
+with many others will probably go to pot; yea, 'tis an even lay but they'l fall foul upon the
+<hi>Lieutenant</hi> himſelf, ſo did the Council that laſt met, who Vo<g ref="char:EOLhyphen"/>ted that the Plotters
+took too great encouragement from the <hi>Lieutenants</hi> being a <hi>Mahometan,</hi> thereupon
+the Succeſſion might be thought diſputable.</p>
+            <p>I obſerve that a great many of the Sailors have a wonderful kindneſs for the
+<hi>Captain</hi>'s Eldeſt Son: He is now aboard, and when ever he appears upon the Deck, they
+flock about him, and ſhew him all imaginable reſpect. A day or two ago he went upon the
+foreſhip, and I warrant you there were Scores following him with ſuch loud Acclamations, as
+made the Ship to ring again; the <hi>Lieutenant</hi> heard it, and bit his lip; and though he
+ſaith nothing, I believe he thinks the more. It appears he is a little jealous of him; how<g ref="char:EOLhyphen"/>ever
+the <hi>Captain</hi> hath been pleaſed to declare publickly, that he was never married to his
+Mother; but yet he did not ſay he was not his Father; he owns him ſtill for his Son; and the
+Sailors for his own and his Fathers honour are loth to think him Illegitimate.</p>
+            <p>Well, let the Father ſay what he will of his Son, upon my word he is a brisk young Gentleman,
+and by profeſſion a Chriſtian, and one that is re<g ref="char:EOLhyphen"/>nown'd for a perſon of admirable valour
+amongſt the <hi>Mahometans</hi> them<g ref="char:EOLhyphen"/>ſelves. Whether the Council will interpoſe and concern
+themſelves about this matter is uncertain; but ſome of the leſs wary Sailors have thought one
+reaſon why the Council have not ſit, to be a ſuſpition leſt they ſhould intermeddle
+with the Buſineſs of Succeſſion.</p>
+            <p>
+               <pb n="4" facs="tcp:62808:3" rendition="simple:additions"/>Again, others think that ſome who are no
+<hi>Mahometans</hi> (at leaſt they are not ſuch profeſſedly) may be faulted; 'tis too well
+known, and it can't be conceal'd, how the Chriſtians themſelves that are in the Ship (the more
+is the pity) are not all of a mind. There are many that don't very well like the mode of Worſhip
+we have aboard; they ſay that ſeveral of our Religious uſages are borrowed from the
+<hi>Mahometans,</hi> this is the ſentiment of ſome of our Officers, and of a great, if not the
+greater num<g ref="char:EOLhyphen"/>ber of the Sailors; this diſſent of theirs doth greatly enrage the other par<g ref="char:EOLhyphen"/>ty,
+for this they ſtigmatize them, and ſometimes ſeverely handle them, which they may do by the
+Orders of the Ship. One would think our common danger ſhould induce us to uſe more moderation.
+And ſtanders-by that are not ſo deeply concern'd and engag'd in a party, do think the petty
+differ<g ref="char:EOLhyphen"/>ences amongſt us are capable of an accommodation, and the rather becauſe both ſides
+agree in the main. Only there are a few half-witted and hare-brain'd bigots that blow up the coals.
+Nay, there are ſome that are not aſham'd to declare, they would rather be <hi>Mahometans</hi>
+than Chriſtian diſſenters; which it may be is truly enough ſpoken, for that they are
+<hi>Semi-Mahometans</hi> already; they are theſe mungril-Chriſtians that do us the greateſt
+miſchief; if we ever be deſtroy'd, 'twill be by the wild-fire of theſe men. Theſe be they
+that diſſwade the <hi>Captain</hi> from calling his Council together; fearing poſſibly
+leſt they ſhould make ſome alteration in the preſent Orders of the Ship in favour of the
+diſſenting party; which they may be the more in<g ref="char:EOLhyphen"/>clin'd to do, for as much as they find them to
+be very faithful to the inte<g ref="char:EOLhyphen"/>reſt of Chriſtianity, and moſt forward (upon all occaſions)
+for the Ships welfare and ſafety. They ſee alſo that the ſeverities they have for
+ſometime been under, have not had their intended effect, in as much as they are in<g ref="char:EOLhyphen"/>creas'd and
+not diminiſht thereby. Some of theſe Phreneticks (for ſo they may be call'd) are often
+buzzing the <hi>Captain</hi> in the ear with the rude carri<g ref="char:EOLhyphen"/>age of a Council of Officers in his
+Fathers days. It happen'd, as you have probably heard, that his Father had a conteſt with his
+Council, and from words they fell to blows, and in the ſcuffle the good old <hi>Captain</hi> was
+kill'd and thrown overboard; this unhappy and unheard of Tragedy, is ever now and then ript up to
+alienate the preſent <hi>Captain</hi> from his Council; though we all know the now Council hath
+not the ſame power, nor doth it conſiſt of the ſame perſons. I believe they are a company
+of as honeſt men as ever uſed the Sea; and on my conſcience they have that reſpect and
+honour for the <hi>Captain,</hi> that they would hazzard their All for his ſafety and
+preſerva<g ref="char:EOLhyphen"/>tion. And if he would but be adviſed by them, he might be as happy a man as ever
+commanded a Ship. If in his Conduct he ſhould have been any ways tardy or deficient, they would
+take no notice of it. For 'tis a Maxim amongſt them, That though his Officers may, yet the
+<hi>Captain</hi> himſelf can't do amiſs.</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Yours to ſerve You, &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed, and are to be Sold by <hi>Richard Janeway</hi> in <hi>Queens-head-Alley</hi> in
+<hi>Pater-Noſter-Row.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
